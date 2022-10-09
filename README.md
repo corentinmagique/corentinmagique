@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Corentin Chien Kan Foon</h1>
-<h3 align="center">A passionate web developer from Reunion Island</h3>
+<h3 align="center">A passionate web developer from Réunion</h3>
 
 - 🌱 I’m currently learning **Reactjs, redux-toolkit and Typescript**
 
